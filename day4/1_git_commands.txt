@@ -31,3 +31,25 @@
 
 2. git add .
     => adds all the changes to the staging area
+
+# If you do not want to push any file or folder to github then mention those files or folder in ".gitignore"
+
+3. git commit -m "commit message"
+
+4. git branch -M main
+    => Changes the master branch to main
+
+5. git push -u origin <branch_name>
+
+6. ssh-keygen
+    => Generates an SSH public/private key-pair
+    => Paste the public key to the Github settings
+
+7. git remote add origin <ssh-link>
+    => adds a remote of name "origin"
+
+8. git remote -v
+    => lists all the remote links
+
+9. git remote remove origin
+    => Removes the remote link
