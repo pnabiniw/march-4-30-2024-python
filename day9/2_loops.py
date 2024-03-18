@@ -39,6 +39,9 @@ print(list(data))  # 1, 3, 5, 7, 9
 for _ in range(51):
     print("Hello World")
 
+for i in range(10):
+    print(i)  # 0....9
+
 
 # enumerate()
 # enumerate() is a python built-in function to give the elements of iterable along with their count
