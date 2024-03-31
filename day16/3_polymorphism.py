@@ -36,5 +36,6 @@ class Vehicle:
     def get_details(self):
         return "This is a Vehicle"
 
+
 v = Vehicle()
 print(v.get_details())
