@@ -21,9 +21,11 @@ def main():
         cont = read_student()
         main() if cont else exit_message()
     elif choice == "u":
-        update_student()
+        cont = update_student()
+        main() if cont else exit_message()
     elif choice == "d":
-        delete_student()
+        cont = delete_student()
+        main() if cont else exit_message()
     else:
         exit_message()
 

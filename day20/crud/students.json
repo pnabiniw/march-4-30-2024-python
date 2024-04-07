@@ -16,5 +16,11 @@
     "name": "Alex",
     "age": "31",
     "address": "BKT"
+  },
+  {
+    "id": "7",
+    "name": "Ram",
+    "age": "30",
+    "address": "KTM"
   }
 ]

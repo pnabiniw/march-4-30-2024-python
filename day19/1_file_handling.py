@@ -7,9 +7,9 @@
 # 5. Write and read (w+)
 # 6. Exclusive Mode (x)
 # 7. Binary Read (rb)
-# 8. Binary Write (rw)
+# 8. Binary Write (wb)
 # 9. Binary read and write (rb+)
-# 10. Binary write and read (rw+)
+# 10. Binary write and read (wb+)
 
 filename = "test1.txt"
 
