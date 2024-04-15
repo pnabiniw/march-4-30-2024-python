@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Jon",
+    "address": "Lalitpur",
+    "marks": 42
+  },
+  {
+    "name": "Jane",
+    "address": "Bhaktapur",
+    "marks": 100
+  },
+  {
+    "name": "Hary",
+    "address": "Bhaktapur",
+    "marks": 19
+  },
+  {
+    "name": "Alex",
+    "address": "KTM",
+    "marks": 76
+  }
+]
